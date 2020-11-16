@@ -1,0 +1,60 @@
+h1 {
+	font-size:100%
+}
+p {
+	font-size:90%;
+}
+
+
+.lang-ide-table {
+ 	border-collapse: collapse;
+ 	display: inline;
+ 	vertical-align:bottom;
+}
+.lang-ide-table th,.lang-ide-table td {
+	border:solid 1px black;
+}
+.image img {
+	width:50px;
+}
+.figure {
+	text-align:right;
+}
+.language {
+	text-align:left;
+}
+.lang-ide-table th {
+	color:#008000;
+ 	background-color:#CCFFCC;
+ 	text-align:center;
+}
+.emphasis {
+	color:red;
+	font-weight:bold;
+}
+
+
+
+h2 {
+	font-size:100%
+}
+p {
+	font-size:90%
+}
+div form {
+	width:640px;
+	margin-right:auto;
+	margin-left:auto;
+	text-align:center;
+}
+.submit-button {
+	border-radius : 8%;
+	padding: 10px 12px;
+  	text-align : center;
+  	background: #0059b3;
+ 	color: #ffffff;
+ 	border-color:#0059b3;
+}
+.align-center {
+	text-align:center;
+}
