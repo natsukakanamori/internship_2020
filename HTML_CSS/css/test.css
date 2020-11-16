@@ -14,7 +14,7 @@ p {
 .lang-ide-table th,.lang-ide-table td {
 	border:solid 1px black;
 }
-td.image img {
+.image img {
 	width:50px;
 }
 .figure {
@@ -23,7 +23,7 @@ td.image img {
 .language {
 	text-align:left;
 }
-.lang-ide-table tr th {
+.lang-ide-table th {
 	color:#008000;
  	background-color:#CCFFCC;
  	text-align:center;
